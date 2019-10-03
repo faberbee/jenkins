@@ -1,6 +1,6 @@
 FROM quay.io/openshift/origin-jenkins-agent-base:v4.0
 
-MAINTAINER Akram Ben Aissi <abenaiss@redhat.com>
+MAINTAINER Francesco Fiore <francesco.fiore@faberbee.com>
 
 # Labels consumed by Red Hat build service
 LABEL com.redhat.component="jenkins-agent-nodejs-12-rhel7-container" \
